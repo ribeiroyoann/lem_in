@@ -1,0 +1,22 @@
+15
+##start
+START 23 3
+1 16 7
+#comment
+2 16 3
+3 16 5
+4 9 3
+6 1 5
+5 4 8
+##end
+END 9 5
+START-1
+START-2
+1-4
+2-5
+2-3
+3-6
+4-5
+5-END
+6-END
+#another comment
